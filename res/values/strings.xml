@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="vpn_service_desc">Blocking internet to keep you focused</string>
+    <string name="focus_mode_active">Focus Mode Active</string>
+    <string name="internet_blocked">Internet Blocked</string>
+    <string name="internet_restored">Internet Restored</string>
+    <string name="minutes">min</string>
+    <string name="start_focus">Start Focus</string>
+    <string name="stop_focus">Stop Focus</string>
+    <string name="block_internet">Block Internet</string>
+    <string name="restore_internet">Restore Internet</string>
+    <string name="grant_usage_permission">Grant Usage Access</string>
+    <string name="grant_write_secure">Grant Admin Permission</string>
+    <string name="notification_channel_timer">Timer Channel</string>
+    <string name="notification_channel_vpn">VPN Channel</string>
+</resources>
