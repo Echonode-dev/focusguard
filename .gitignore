@@ -1,0 +1,51 @@
+# Gradle
+.gradle/
+build/
+gradlew
+gradlew.bat
+gradle/
+
+# Local properties
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android Studio
+out/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Build artifacts
+bin/
+gen/
+obj/
+classes/
+*.o
+*.so
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+.classpath
+.project
+.settings/
+*.bak
+*.swp
+*.swo
+*~
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+.env.local
