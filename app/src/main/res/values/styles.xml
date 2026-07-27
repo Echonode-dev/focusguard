@@ -6,7 +6,7 @@
         <item name="colorSecondary">@color/secondaryColor</item>
         <item name="colorSecondaryVariant">@color/secondaryVariantColor</item>
         <item name="colorError">@color/errorColor</item>
-        <item name="colorBackground">@color/backgroundColor</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
         <item name="colorSurface">@color/surfaceColor</item>
     </style>
 </resources>
